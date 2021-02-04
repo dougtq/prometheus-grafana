@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# grafana files
+prometheus/data/grafana/
+
+# prometheus files
+prometheus/data/prometheus/data/*
